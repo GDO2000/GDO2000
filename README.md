@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George</h1>
-<h3 align="center">A recent Natural Sciences graduate that specialised in Theoretical Physics and Applied Maths <br/> I have recently graduated from the School of Code bootcamp as a trainee Full Stack Developer</h3>
+<h3 align="center">A recent Natural Sciences graduate that specialised in Theoretical Physics and Applied Maths <br/> I have recently graduated from the School of Code bootcamp as a trainee Full Stack Developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
